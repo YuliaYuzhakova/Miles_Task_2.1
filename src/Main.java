@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int ticketCost = 1000; //Стоимость билета
-        int bonus = 20; //Количество рублей для одной бонусной милли
+        int bonus = 20; //Количество рублей для одной бонусной мили
 
         int miles = (ticketCost / bonus);
 
